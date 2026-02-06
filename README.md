@@ -4,7 +4,7 @@
 
 ![viewfinal](https://github.com/user-attachments/assets/4eb862ff-72ea-4b40-8c4f-cba92e464c85)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://github.com/user-attachments/assets/795c130e-cb9f-45c0-830d-d3a1b324d1b6)
 
 - [Demo Project](https://behrokhnaderi.github.io/cake-shop/)
 
