@@ -14,8 +14,6 @@
 
 - Technologies Used - Html , css 
 
-- Hooks Used : useState 
-
 - Role - Frontend
 
 - How to reach me : with my [Gmail](https://www.naderibehrokh@gmail.com)
